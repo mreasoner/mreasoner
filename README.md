@@ -33,6 +33,7 @@ Customer Relations: Building Strong Relationships, Risk Management
 Feel free to check out my other work and connect with me:
 
 https://www.linkedin.com/in/matthew-reasoner-7394321b0/
+https://github.com/mreasoner 
 
 I’m always excited to collaborate on projects or discuss new opportunities. Let’s create something amazing together!
 --->
