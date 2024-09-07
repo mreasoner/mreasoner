@@ -1,5 +1,5 @@
 
-Creating an effective "README" for your GitHub profile is essential for showcasing your projects, skills, and interests in a clear and engaging manner. Here's a template you can use and customize based on your specific projects and background:
+
 
 Hi, I'm Matthew Reasoner! 👋
 Welcome to my GitHub profile! I'm a passionate Data Enthusiast and Business Intelligence Analyst with a solid background in leveraging data to drive strategic decisions and optimize performance.
@@ -33,6 +33,6 @@ Customer Relations: Building Strong Relationships, Risk Management
 Feel free to check out my other work and connect with me:
 
 https://www.linkedin.com/in/matthew-reasoner-7394321b0/
-GitHub Profile
+
 I’m always excited to collaborate on projects or discuss new opportunities. Let’s create something amazing together!
 --->
