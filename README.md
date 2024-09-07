@@ -14,6 +14,7 @@ I specialize in turning complex data into actionable insights. My experience spa
 Streamlining Operations: Enhancing efficiency through data-driven strategies.
 Project Management: Leading initiatives from conception to completion, optimizing resources, and achieving impactful results.
 Technical Solutions: Adapting to new technologies and solving real-world problems with innovative solutions.
+
 🔍 Projects
 Shopify App Analysis Project
 Objective: Analyzed data from the Shopify App Store to identify key factors contributing to the success of Shopify apps and to assess app performance based on reviews and developer responsiveness.
@@ -31,6 +32,8 @@ Addressed rating discrepancies by creating a Bar Chart showing the average helpf
 Evaluated developer responsiveness by visualizing developer response rates and filtered for apps with more than 500 reviews.
 Tools Used: Microsoft Power BI (Data Modeling, DAX, Visualizations)
 Outcome: Delivered actionable insights into app performance and developer engagement, aiding in understanding factors influencing app success and responsiveness within the Shopify App Marketplace.
+
+
 Airbnb Rental Analysis and Investment Recommendation Project | 07/24| Website | Demo 
 
 Data Cleaning & Filtering: Removed inactive listings and irrelevant data, standardized neighborhood names, and managed missing values for bedrooms.
